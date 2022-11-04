@@ -27,7 +27,8 @@ Mindspore 1.8.1+
 ```
 mindspore_Ghostnet
 ├── CIFAR10        //数据集
-└── GhostNet.ipynb //ipynb文件
+├── GhostNet.ipynb //ipynb文件
+└── logXXXXXX.TXT  //记录文件
 ```
 
 # 数据准备
